@@ -1,0 +1,12 @@
+h2 {
+	font-size: 50px;
+	text-align: center;
+	border-bottom: 5px solid blue;
+}
+img {
+	height: 160px;
+	width: 80px;
+}
+body {
+	background-color: red; 
+}
